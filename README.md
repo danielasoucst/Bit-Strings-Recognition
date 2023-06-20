@@ -12,4 +12,4 @@ b) **Dependencies**
     - Numpy
  c) **Datasets**
    - [FA dataset (online)](https://cmp.felk.cvut.cz/~breslmar/finite_automata/)
-   - [Mealy Dataset] (https://drive.google.com/drive/folders/1uFVDmvQX9JUJBh1ankbBYUGwrRY__FTm?usp=sharing)
+   - [Mealy Dataset](https://drive.google.com/drive/folders/1uFVDmvQX9JUJBh1ankbBYUGwrRY__FTm?usp=sharing)
